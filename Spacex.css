@@ -1,0 +1,260 @@
+.firstpart{
+    width: 100%;
+    height: 743px;
+    background-color: black;
+}
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 114px;
+    background-color:black
+}
+.image{
+ padding-left: 100px;
+ margin-top: -40px;
+ cursor: pointer;
+}
+.listings{
+    color: white;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    margin-top: -83px;
+    padding-left: 367px;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+.list1{
+    margin-top: -83px;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.list2{
+    margin-top: -28px;
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 90px;
+    cursor: pointer;
+}
+.list3{
+    margin-top: -28px;
+    font-size: 13px;
+    font-weight: bold;
+    padding-left: 216px;
+    cursor: pointer;
+
+}
+.list4{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 299px;
+    margin-top: -28px; 
+    cursor: pointer; 
+}
+.list5{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 391px;
+    margin-top: -28px; 
+    cursor: pointer; 
+}
+.list6{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 563px;
+    margin-top: -28px;
+    cursor: pointer; 
+}
+.list7{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 662px;
+    margin-top: -28px; 
+    cursor: pointer; 
+}
+.list8{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 772px;
+    margin-top: -28px;
+    cursor: pointer;  
+}
+.list9{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 1005px;
+    margin-top: -28px; 
+    cursor: pointer; 
+}
+.icon{
+    width: 100%px;
+    height: 15px;
+    cursor: pointer;
+}
+.bar1{
+    width: 18px;
+    height: 1px;
+    background-color: white;
+    margin-top: -27px;
+    margin-left: 1073px
+}
+.bar2{
+    width: 18px;
+    height: 1px;
+    background-color: white;
+    margin-top: 4px;
+    margin-left: 1073px 
+}
+.bar3{
+    width: 18px;
+    height: 1px;
+    background-color: white;
+    margin-top: 4px;
+    margin-left: 1073px;
+}
+.image1{
+    float: left;
+    margin-top: -24px;
+}
+.textone{
+    float: left;
+    color: white;
+    margin-top: -338px;
+    padding-left: 114px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+    font-size:19px;
+    font-stretch: condensed;
+}
+.texttwo{
+    float: left;
+    color: white;
+    margin-top: -333px;
+    padding-left: 109px;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-family:  D-DIN-Bold, Arial, Verdana, sans-serif;
+    font-weight: 700;
+    font-stretch: condensed;
+}
+.rewatch{
+    float: left;
+    border-color: white;
+    background-color: black;
+    color: white;
+    margin-top: -147px;
+    margin-left: 113px;
+    padding: 12px;
+    height: 52px;
+    width: 141px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-stretch: condensed;
+    font-weight: 700;
+    cursor: pointer;
+}
+.secondpart{
+    float: left;
+}
+.image2{
+    float: left;
+    margin-top: -8px;
+}
+.rewatch1{
+    float: left;
+    color: white;
+    margin-top: -205px;
+    margin-left: 113px;
+    padding: 12px;
+    height: 52px;
+    width: 141px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-stretch: condensed;
+    font-weight: 700; 
+    background-color: transparent;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+.thirdpart{
+ width: 100%;
+}
+.video1{
+    float: left;
+    margin-top: -9px;
+    height: 860px;
+    
+    width: 100%;
+
+}
+.rewatchstarship{
+    float: left;
+    color: white;
+    margin-top: -163px;
+    margin-left: 113px;
+    padding: 12px;
+    height: 52px;
+    width: 141px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-stretch: condensed;
+    font-weight: 700; 
+    background-color: transparent;
+    border: 2px solid #fff;
+    cursor: pointer;
+}
+.imagefour{
+    float: left;
+    margin-top: -9px;
+}
+.fifthpart{
+    float: left;
+}
+.sixthpart{
+    float: left;
+}
+.rooter{
+    float: left;
+    width: 100%;
+    height: 85px;
+    background-color:black;
+    margin-top: -4px;
+}
+.lasttag1{
+    color: #fff;
+    font-size: 11px;
+    font-family: D-DIN-Medium, Arial, Verdana, sans-serif;
+    margin-left: 594px;
+    margin-top: 36px;
+    text-transform: uppercase;
+}
+.lasttag2{
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-left: 728px;
+    margin-top: -11px;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+    font-weight:bold;
+    color: #fff;
+    cursor: pointer;
+}
+.lasttag3{
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-left: 857px;
+    margin-top: -20px;
+    font-family: D-DIN-Bold, Arial, Verdana, sans-serif;
+    font-weight:bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+
+
+
